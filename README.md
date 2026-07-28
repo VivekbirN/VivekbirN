@@ -21,7 +21,7 @@ Passionate about Backend Development, Software Engineering, and building practic
 -  Currently learning **Spring Security**, **Docker**, **Microservices**, and **System Design**
 -  Currently building a **Campus-DigitalTwin platform using Spring Boot**
 -  Solving **DSA problems in Java** for software engineering interviews
--  Looking for **Software Engineering Internship & Full-Time Opportunities**
+-  Building scalable backend applications using Java and Spring Boot.
 
 ---
 
@@ -35,58 +35,57 @@ Passionate about Backend Development, Software Engineering, and building practic
 
 # 🚀 Featured Projects
 
-## 🏫 Campus Digital Twin
-A Java-based Digital Twin platform designed to visualize and simulate various aspects of a university campus through an interactive software system.
+---
 
-**Highlights**
-- Java
-- Object-Oriented Programming
-- Software Engineering
-- Simulation
-- SpringBoot
-- Spring Security
-- Redis
+## 🏫 [Campus Digital Twin Platform](https://github.com/VivekbirN/campus-digital-twin)
+
+Enterprise backend platform for managing campus operations, resource planning, and institutional simulations.
+
+**Tech Stack**
+
+`Java 21` • `Spring Boot 3` • `Spring Security` • `JWT` • `PostgreSQL` • `Redis` • `Docker`
 
 ---
 
-## 🐾 Pet Health Management System
-A full-stack web application for managing pet health records, vaccinations, treatments, and overall animal welfare.
+## 🐾 [Pet Health Management System](https://github.com/VivekbirN/pet-health-management-system)
 
-**Highlights**
-- Node.js
-- JavaScript
-- MySQL
-- CRUD Operations
+Full-stack web application for managing pet health records, vaccinations, grooming schedules, and wellness tracking.
 
----
+**Tech Stack**
 
-## 🤖 Drought Prediction using Machine Learning
-Machine Learning project focused on drought prediction using feature engineering and ensemble learning techniques.
-
-**Highlights**
-- Python
-- LightGBM
-- XGBoost
-- CatBoost
-- Stacking Ensemble
+`Node.js` • `Express.js` • `JavaScript` • `MySQL` • `REST APIs`
 
 ---
 
-## 🍽️ Restaurant Management System (Spring Boot)
-Currently developing a scalable backend application using Spring Boot with authentication, REST APIs, and database integration.
+## 🍽️ [Restaurant Management System](https://github.com/VivekbirN/restaurant-management-system)
+
+Backend application for restaurant operations featuring authentication, menu management, reservations, and RESTful APIs.
+
+**Tech Stack**
+
+`Java` • `Spring Boot` • `Spring Security` • `JWT` • `MySQL` • `REST APIs`
 
 ---
 
-# 📚 Currently Learning
+## 🤖 [Drought Prediction using Machine Learning](https://github.com/VivekbirN/drought-prediction-ml)
 
-- Spring Boot
-- Spring Security
-- REST API Design
-- Docker
-- Microservices
-- System Design
+Machine learning system for drought prediction using advanced feature engineering and ensemble learning models.
+
+**Tech Stack**
+
+`Python` • `LightGBM` • `XGBoost` • `CatBoost` • `Stacking Ensemble` • `Scikit-learn`
 
 ---
+
+## 💻 [Java DSA](https://github.com/VivekbirN/java-dsa) *(Coming Soon)*
+
+Structured collection of Java solutions for Data Structures & Algorithms, organized for coding interviews and placement preparation.
+
+**Tech Stack**
+
+`Java` • `Data Structures` • `Algorithms` • `LeetCode`
+
+
 
 # 🎯 Current Goals
 
