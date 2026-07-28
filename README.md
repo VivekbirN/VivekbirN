@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Vivekbir Narula 
 
-<!--
-**VivekbirN/VivekbirN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend Developer | Java | Spring Boot
 
-Here are some ideas to get you started:
+I'm an Information Science student at The National Institute of Engineering (NIE), Mysore, passionate about building scalable backend applications and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Working On
+
+- Restaurant Management System (Spring Boot)
+- Java DSA for placements
+- System Design fundamentals
+
+### 💻 Tech Stack
+
+- Java
+- Spring Boot
+- JavaScript
+- Node.js
+- MySQL
+- MongoDB
+- Git & GitHub
+- HTML & CSS
+
+### 📚 Currently Learning
+
+- Spring Security
+- REST API Design
+- System Design
+- Docker
+
+### 📫 Connect with me
+
+- LinkedIn: (Add your LinkedIn URL)
+- LeetCode: [(https://leetcode.com/u/VivekbirN/)]
+- Email: [(narulavivek913@gmail.com)]
+
+---
+
+> *"Always learning. Always building."*
