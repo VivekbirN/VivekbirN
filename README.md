@@ -63,7 +63,7 @@ Backend application for restaurant operations featuring authentication, menu man
 
 **Tech Stack**
 
-`Java` • `Spring Boot` • `Spring Security` • `JWT` • `MySQL` • `REST APIs`
+`Node.js` • `Express.js` • `JavaScript` • `MySQL` • `REST APIs`
 
 ---
 
