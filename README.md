@@ -77,13 +77,7 @@ Machine learning system for drought prediction using advanced feature engineerin
 
 ---
 
-## 💻 [Java DSA](https://github.com/VivekbirN/java-dsa) *(Coming Soon)*
 
-Structured collection of Java solutions for Data Structures & Algorithms, organized for coding interviews and placement preparation.
-
-**Tech Stack**
-
-`Java` • `Data Structures` • `Algorithms` • `LeetCode`
 
 
 
