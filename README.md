@@ -16,12 +16,12 @@ Passionate about Backend Development, Software Engineering, and building practic
 
 # 🚀 About Me
 
-- 🎓 Information Science Engineering Student at **The National Institute of Engineering, Mysore**
-- 💻 Passionate about **Backend Development** and **Software Engineering**
-- 🌱 Currently learning **Spring Security**, **Docker**, **Microservices**, and **System Design**
-- 🔭 Currently building a **Restaurant Management System using Spring Boot**
-- 🧠 Solving **DSA problems in Java** for software engineering interviews
-- 🎯 Looking for **Software Engineering Internship & Full-Time Opportunities**
+-  Information Science Engineering Student at **The National Institute of Engineering, Mysore**
+-  Passionate about **Backend Development** and **Software Engineering**
+-  Currently learning **Spring Security**, **Docker**, **Microservices**, and **System Design**
+-  Currently building a **Campus-DigitalTwin platform using Spring Boot**
+-  Solving **DSA problems in Java** for software engineering interviews
+-  Looking for **Software Engineering Internship & Full-Time Opportunities**
 
 ---
 
@@ -43,6 +43,9 @@ A Java-based Digital Twin platform designed to visualize and simulate various as
 - Object-Oriented Programming
 - Software Engineering
 - Simulation
+- SpringBoot
+- Spring Security
+- Redis
 
 ---
 
