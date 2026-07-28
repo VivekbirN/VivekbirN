@@ -13,7 +13,8 @@ I'm an Information Science student at The National Institute of Engineering (NIE
 
 ### 💻 Tech Stack
 
-- Java
+- Java<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/504b9d0a-2cf9-42c8-969a-d9fb2538aabd" />
+
 - Spring Boot
 - JavaScript
 - Node.js
