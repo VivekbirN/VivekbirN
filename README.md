@@ -79,7 +79,15 @@ Machine learning system for drought prediction using advanced feature engineerin
 
 
 
+## 📊 GitHub Statistics
 
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=VivekbirN&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekbirN&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 # 🎯 Current Goals
 
