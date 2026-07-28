@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8A2BE2&text=Vivekbir%20Narula&fontColor=ffffff&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=8A2BE2&text=Vivekbir%20Narula&fontColor=ffffff&fontAlignY=40"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Vivekbir Narula</h1>
@@ -8,73 +8,102 @@
 <h3 align="center">Backend Developer | Java | Spring Boot | REST APIs</h3>
 
 <p align="center">
-I'm an Information Science student at <b>The National Institute of Engineering (NIE), Mysore</b>, passionate about building scalable backend applications, solving real-world problems, and continuously improving my software engineering skills.
+Information Science student at <b>The National Institute of Engineering (NIE), Mysore</b><br>
+Passionate about Backend Development, Software Engineering, and building practical applications that solve real-world problems.
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Information Science Student at **NIE Mysore**
-- 💻 Passionate about **Backend Development**
-- 🌱 Currently learning **Spring Security, Docker, and System Design**
+- 🎓 Information Science Engineering Student at **The National Institute of Engineering, Mysore**
+- 💻 Passionate about **Backend Development** and **Software Engineering**
+- 🌱 Currently learning **Spring Security**, **Docker**, **Microservices**, and **System Design**
 - 🔭 Currently building a **Restaurant Management System using Spring Boot**
-- 📚 Preparing for **Software Engineering internships and placements**
+- 🧠 Solving **DSA problems in Java** for software engineering interviews
+- 🎯 Looking for **Software Engineering Internship & Full-Time Opportunities**
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,mysql,mongodb,git,github,docker,html,css&perline=6" />
-
+<img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,mysql,mongodb,python,git,github,docker,html,css&perline=6"/>
 </p>
 
 ---
 
-## 🚀 Current Focus
+# 🚀 Featured Projects
 
-- 🍽️ Restaurant Management System (Spring Boot)
-- 🧠 Java DSA for Coding Interviews
-- 🏗️ System Design Fundamentals
-- 🔐 Spring Security & REST API Development
+## 🏫 Campus Digital Twin
+A Java-based Digital Twin platform designed to visualize and simulate various aspects of a university campus through an interactive software system.
+
+**Highlights**
+- Java
+- Object-Oriented Programming
+- Software Engineering
+- Simulation
 
 ---
 
-## 📌 Featured Projects
+## 🐾 Pet Health Management System
+A full-stack web application for managing pet health records, vaccinations, treatments, and overall animal welfare.
 
-### 🍽️ Restaurant Management System
-A full-stack restaurant management application featuring authentication, role-based access, order management, and REST APIs built with Spring Boot.
+**Highlights**
+- Node.js
+- JavaScript
+- MySQL
+- CRUD Operations
 
-### 🤖 ML Drought Prediction
+---
+
+## 🤖 Drought Prediction using Machine Learning
 Machine Learning project focused on drought prediction using feature engineering and ensemble learning techniques.
 
-### 💻 Java DSA
-A growing collection of Java solutions for interview preparation, covering Arrays, Strings, Trees, Graphs, Dynamic Programming, and more.
+**Highlights**
+- Python
+- LightGBM
+- XGBoost
+- CatBoost
+- Stacking Ensemble
 
 ---
 
-## 📚 Currently Learning
+## 🍽️ Restaurant Management System (Spring Boot)
+Currently developing a scalable backend application using Spring Boot with authentication, REST APIs, and database integration.
 
+---
+
+# 📚 Currently Learning
+
+- Spring Boot
 - Spring Security
 - REST API Design
 - Docker
-- System Design
 - Microservices
+- System Design
 
 ---
 
-## 📫 Connect With Me
+# 🎯 Current Goals
+
+- Build production-ready backend applications
+- Strengthen Data Structures & Algorithms
+- Learn scalable software architecture
+- Contribute to Open Source
+- Prepare for Software Engineering placements
+
+---
+
+# 📫 Connect With Me
 
 - 💼 LinkedIn: **https://www.linkedin.com/in/YOUR-LINKEDIN/**
 - 💻 LeetCode: **https://leetcode.com/u/VivekbirN/**
-- 📧 Email: **mailto:narulavivek913@gmail.com**
+- 📧 Email: **narulavivek913@gmail.com**
 
 ---
 
 <p align="center">
-
-> **"Always learning. Always building."** 🚀
-
+<i>"Always Learning. Always Building. Always Improving."</i> 🚀
 </p>
+```
