@@ -100,7 +100,7 @@ Currently developing a scalable backend application using Spring Boot with authe
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: **[(https://www.linkedin.com/in/vivekbir-narula)]**
+- 💼 LinkedIn: **[(https://www.linkedin.com/in/vivekbir-narula-0b34a82a6/)]**
 - 💻 LeetCode: **https://leetcode.com/u/VivekbirN/**
 - 📧 Email: **narulavivek913@gmail.com**
 
