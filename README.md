@@ -33,47 +33,27 @@ Passionate about Backend Development, Software Engineering, and building practic
 
 ---
 
-# 🚀 Featured Projects
+🚀 Featured Projects
 
----
-
-## 🏫 [Campus Digital Twin Platform](https://github.com/VivekbirN/campus-digital-twin)
-
+🏫 Campus Digital Twin Platform (https://github.com/VivekbirN/campus-digital-twin)
 Enterprise backend platform for managing campus operations, resource planning, and institutional simulations.
+Tech Stack
+Java 21 • Spring Boot 3 • Spring Security • JWT • PostgreSQL • Redis • Docker
 
-**Tech Stack**
+🏟️ CourtCraft – Sports Facility Booking Platform (https://github.com/VivekbirN/courtcraft)
+Multi-sport facility booking backend with flexible time-window booking, concurrent booking prevention using Redis distributed locking, and role-based access control across a 6-sport complex.
+Tech Stack
+Java 21 • Spring Boot 3 • Spring Security • JWT • PostgreSQL • Redis • Docker
 
-`Java 21` • `Spring Boot 3` • `Spring Security` • `JWT` • `PostgreSQL` • `Redis` • `Docker`
-
----
-
-## 🐾 [Pet Health Management System](https://github.com/VivekbirN/pet-health-management-system)
-
+🐾 Pet Health Management System (https://github.com/VivekbirN/pet-health-management-system)
 Full-stack web application for managing pet health records, vaccinations, grooming schedules, and wellness tracking.
+Tech Stack
+Node.js • Express.js • JavaScript • MySQL • REST APIs
 
-**Tech Stack**
-
-`Node.js` • `Express.js` • `JavaScript` • `MySQL` • `REST APIs`
-
----
-
-## 🍽️ [Restaurant Management System](https://github.com/VivekbirN/restaurant-management-system)
-
-Backend application for restaurant operations featuring authentication, menu management, reservations, and RESTful APIs.
-
-**Tech Stack**
-
-`Node.js` • `Express.js` • `JavaScript` • `MySQL` • `REST APIs`
-
----
-
-## 🤖 [Drought Prediction using Machine Learning](https://github.com/VivekbirN/drought-prediction-ml)
-
+🤖 Drought Prediction using Machine Learning (https://github.com/VivekbirN/drought-prediction-ml)
 Machine learning system for drought prediction using advanced feature engineering and ensemble learning models.
-
-**Tech Stack**
-
-`Python` • `LightGBM` • `XGBoost` • `CatBoost` • `Stacking Ensemble` • `Scikit-learn`
+Tech Stack
+Python • LightGBM • XGBoost • CatBoost • Stacking Ensemble • Scikit-learn
 
 ---
 
